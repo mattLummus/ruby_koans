@@ -1,4 +1,6 @@
-RUBY_FILES
+Class work for NSS Ruby/Rails Portion
+=======
+ruby_koans
 ==========
 
-Class work for NSS Ruby/Rails Portion
+Submission for the ruby_koans tutorial
